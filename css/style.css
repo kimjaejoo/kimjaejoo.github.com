@@ -414,13 +414,13 @@ Works
 	text-align: right;
 	border-right: 1px solid rgba(27,54,81,0.4);
 	text-shadow: none;
-	color: #fff;
+	color: #000040;
 }
 .lb-overlay div h3 span,
 .lb-overlay div p{
 	font-size: 16px;
 	text-shadow: none;
-	color: #fff;
+	color: #000040;
 }
 .lb-overlay div h3 span{
 	display: block;
